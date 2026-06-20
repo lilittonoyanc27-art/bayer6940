@@ -1,0 +1,6 @@
+{
+  "name": "Armenian to Spanish Calendar Games",
+  "description": "Learn Spanish months and days of the week from Armenian with visual guides and 6 fun interactive games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
